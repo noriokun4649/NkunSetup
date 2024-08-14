@@ -1,0 +1,173 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-08-13T01:19:18.380-00:00",
+	"WinGetVersion" : "1.8.1911",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "JetBrains.IntelliJIDEA.Community"
+                },
+                {
+                    "PackageIdentifier": "JetBrains.Toolbox"
+                },
+                {
+                    "PackageIdentifier": "GitHub.GitHubDesktop"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "GitHub.GitLFS"
+                },
+                {
+                    "PackageIdentifier": "Docker.DockerDesktop"
+                },
+                {
+                    "PackageIdentifier": "Canonical.Ubuntu.2204"
+                },
+                {
+                    "PackageIdentifier": "OpenJS.NodeJS"
+                },
+                {
+                    "PackageIdentifier": "Yarn.Yarn"
+                },
+                {
+                    "PackageIdentifier": "pnpm.pnpm"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3.12"
+                },
+                {
+                    "PackageIdentifier": "GnuPG.GnuPG"
+                },
+                {
+                    "PackageIdentifier": "TeraTermProject.teraterm5"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerToys"
+                },
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo.AoiEdition"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskMark.AoiEdition"
+				},
+                {
+                    "PackageIdentifier": "Malwarebytes.Malwarebytes"
+                },
+                {
+                    "PackageIdentifier": "File-New-Project.EarTrumpet"
+                },
+                {
+                    "PackageIdentifier": "Gyan.FFmpeg"
+                },
+                {
+                    "PackageIdentifier": "VideoLAN.VLC"
+                },
+                {
+                    "PackageIdentifier": "clsid2.mpc-hc"
+                },
+                {
+                    "PackageIdentifier": "MPC-BE.MPC-BE"
+                },
+                {
+                    "PackageIdentifier": "xanderfrangos.twinkletray"
+                },
+                {
+                    "PackageIdentifier": "Unity.UnityHub"
+                },
+                {
+                    "PackageIdentifier": "BlenderFoundation.Blender"
+                },
+                {
+                    "PackageIdentifier": "7zip.7zip"
+                },
+                {
+                    "PackageIdentifier": "OBSProject.OBSStudio"
+                },
+                {
+                    "PackageIdentifier": "Discord.Discord"
+                },
+                {
+                    "PackageIdentifier": "Discord.Discord.PTB"
+                },
+                {
+                    "PackageIdentifier": "SlackTechnologies.Slack"
+                },
+                {
+                    "PackageIdentifier": "DeepL.DeepL"
+                },
+                {
+                    "PackageIdentifier": "Vivaldi.Vivaldi.Snapshot"
+                },
+                {
+                    "PackageIdentifier": "Mozilla.Firefox"
+                },
+                {
+                    "PackageIdentifier": "tailscale.tailscale"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PCManager"
+                },
+                {
+                    "PackageIdentifier": "Adobe.Acrobat.Reader.64-bit"
+                },
+                {
+                    "PackageIdentifier": "yt-dlp.yt-dlp"
+                },
+                {
+                    "PackageIdentifier": "RaspberryPiFoundation.RaspberryPiImager"
+                },
+                {
+                    "PackageIdentifier": "ArduinoSA.IDE.stable"
+                },
+                {
+                    "PackageIdentifier": "JRSoftware.InnoSetup"
+                },
+                {
+                    "PackageIdentifier": "WiresharkFoundation.Wireshark"
+                },
+                {
+                    "PackageIdentifier": "OpenVPNTechnologies.OpenVPN"
+                },
+                {
+                    "PackageIdentifier": "Rufus.Rufus"
+                },
+                {
+                    "PackageIdentifier": "Deta.Space.CLI"
+                },
+                {
+                    "PackageIdentifier": "Ookla.Speedtest.Desktop"
+                },
+                {
+                    "PackageIdentifier": "KiCad.KiCad"
+                },
+                {
+                    "PackageIdentifier": "Google.AndroidStudio.Canary"
+                },
+                {
+                    "PackageIdentifier": "GIMP.GIMP.Nightly"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Office"
+                }
+            ],
+            "SourceDetails": {
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}

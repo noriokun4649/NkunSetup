@@ -30,6 +30,16 @@
                 },
                 {
                     "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+                },
+                {
+                    "PackageIdentifier": "Unity.UnityHub"
+                },
+                {
+                    "PackageIdentifier": "Unity.Unity.2022",
+                    "Version": "2022.3.22f1"
+                },
+                {
+                    "PackageIdentifier": "VRChat.CreatorCompanion"
                 }
             ],
             "SourceDetails": {
